@@ -4,6 +4,7 @@ It also offers add/edit/delete and pagination features.
 To view the working of this sample app, do the following:
 
 cd ~/listViewApp/public
+npm i
 npm start
 
 It should open up a browser window at "localhost:3000/home", which should display the list view.
